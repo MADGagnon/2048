@@ -1,0 +1,48 @@
+h1 {
+  margin-left: auto; 
+  margin-right: auto;
+  display:table;
+}
+
+table {
+  margin-left: auto; 
+  margin-right: auto;
+  position: relative;
+  border-collapse: collapse;
+  border: 15px solid #B8AD9C;
+  background-color: orange;
+}
+
+.horizontalSpacer {
+  height: 15px;
+  width: 100px;
+  background-color: #B8AD9C;
+}
+
+.verticalSpacer {
+  width: 15px;
+  height: 100px;
+  background-color: #B8AD9C;
+}
+
+.doubleSpacer {
+  height: 15px;
+  width: 15px;
+  background-color: #B8AD9C;
+}
+
+.valueCell {
+  height: 100px;
+  width: 100px;
+  text-align:center;
+}
+
+#nouvellePartieBoutton {
+  margin-left:auto; 
+}
+
+#gameBoard {
+  margin-left: auto; 
+  margin-right: auto;
+  display:table;
+}
